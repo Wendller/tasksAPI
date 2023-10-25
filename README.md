@@ -1,4 +1,4 @@
-# TaskAPI
+# TasksAPI
 
 ### Dockerizando uma API de criação de tasks, utilizando conceitos iniciais do NodeJs
 
